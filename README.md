@@ -1,6 +1,7 @@
 # Natural Language Processing for Requirements Engineering (NLP4RE) Tools
 
 [![GitHub](https://img.shields.io/github/license/JulianFrattini/nlp4re-tools)](./LICENSE)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8341440.svg)](https://doi.org/10.5281/zenodo.8341440)
 
 This repository contains both (1) a list and classification of available NLP4RE tools and (2) the replication package for the upcoming chapter on NLP4RE tools in the NLP4RE book.
 
