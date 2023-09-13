@@ -8,10 +8,10 @@ This repository contains both (1) a list and classification of available NLP4RE 
 
 This repository contains the following two artifacts:
 
-1. [List of tools](./tools/): a list and classification of available NLP4RE tools.
-2. [Replication package](./replication/): the replication package based on which the list of tools was generated.
+1. [Replication package](./replication/): The replication package based on which the list of tools was generated.
+2. [List of tools](./tools/): A list and classification of available NLP4RE tools.
 
-Find more detailed descriptions in the `README` files of each respective section.
+Find more detailed descriptions in the `README` files of each respective artifacts.
 
 ## Authors and Contact
 
