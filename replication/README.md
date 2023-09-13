@@ -13,6 +13,7 @@ This directory contains the following elements:
   * [Inclusion & Exclusion Criteria](./material/Inclusion%20&%20Exclusion%20Criteria.pdf) : Guideline for extractors to determine whether to include or exclude a publication in the set of relevant publications
   * [Reported Challenges](./material/Reported%20Challenges.pdf) : List of encountered challenges during the 2023 NLP4RE book chapter extraction process and how they were solved
 * scripts/ : directory for all automatic processing of data
+  * [completeness-check.ipynb](./scripts/completeness-check.ipynb) : Jupyter notebook checking the completeness and consistency of the data
   * [distribution-visualization.ipynb](./scripts/distribution-visualization.ipynb) : Jupyter notebook generating the [figures](./figures/) from the [data](./data/nlp4re-tools-data.xlsx)
   * [requirements.txt](./scripts/requirements.txt) : list of requirements to execute the scripts in this directory
 
@@ -42,5 +43,5 @@ To replicate the extraction, refer to the method section in the containing book 
 To execute the [scripts](./scripts/), conduct the following steps:
 
 1. Make sure that [Python 3.10](https://www.python.org/downloads/release/python-3100/) is installed on your system.
-2. Install the [requirements](./scripts/requirements.txt) via `pip install -r requirements.txt`.
+2. Install the [requirements](./scripts/requirements.txt) via `pip install -r scripts/requirements.txt`.
 3. Execute the notebooks using any IDE supporting Jupyter notebooks (e.g., VS Code).
