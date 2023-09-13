@@ -15,6 +15,7 @@ This directory contains the following elements:
 * scripts/ : directory for all automatic processing of data
   * [completeness-check.ipynb](./scripts/completeness-check.ipynb) : Jupyter notebook checking the completeness and consistency of the data
   * [distribution-visualization.ipynb](./scripts/distribution-visualization.ipynb) : Jupyter notebook generating the [figures](./figures/) from the [data](./data/nlp4re-tools-data.xlsx)
+  * [markdown-conversion.ipynb](./scripts/markdown-conversion.ipynb) : Jupyter notebook automatically generating the [markdown list of tools](./../tools/nlp4re-tools.md) from the [data](./data/nlp4re-tools-data.xlsx)
   * [requirements.txt](./scripts/requirements.txt) : list of requirements to execute the scripts in this directory
 
 The [data](./data/nlp4re-tools-data.xlsx), which has been produced during the extraction process and is the core contribution of this research work, consists of the following sheets:
