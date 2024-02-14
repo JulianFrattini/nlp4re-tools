@@ -26,10 +26,11 @@ The [data](./data/nlp4re-tools-data.xlsx), which has been produced during the ex
   * Inclusion & Exclusion: Decision on the inclusion and exclusion criteria
   * Extraction: Extracted data according to the [Extraction Guideline](./material/Extraction%20Guideline.pdf)
 * Assignments: Distribution of the selection and extraction task to the three involved researchers
-* Venues: Overview of candidate articles classified by venue and year
+* Venues (potential): Overview of candidate articles classified by venue and year
+* Venues (included): Overview of included articles classified by venue and year
 * Code: (*attribute*) : Definition and distribution of codes per attribute as defined in the extraction guideline
 
-The data can be viewed with any spreadsheet visualization program.
+The data can be viewed with any spreadsheet visualization program like [Microsoft Excel](https://www.microsoft.com/de-de/microsoft-365/excel).
 
 ## Usage
 
