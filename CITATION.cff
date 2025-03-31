@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Frattini"
+    given-names: "Julian"
+    orcid: "https://orcid.org/0000-0003-3995-6125"
+    affiliation: "Blekinge Institute of Technology"
+title: "Replication package for the chapter: Natural Language Processing for Requirements Engineering (NLP4RE) Tools"
+version: 1.1
+doi: 10.5281/zenodo.8341439
+date-released: 2024-05-21
+url: "https://github.com/JulianFrattini/nlp4re-tools"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Frattini"
+      given-names: "Julian"
+    - family-names: "Unterkalmsteiner"
+      given-names: "Michael"
+    - family-names: "Fucci"
+      given-names: "Davide"
+    - family-names: "Mendez"
+      given-names: "Daniel"
+  doi: "10.1007/978-3-031-73143-3_13"
+  journal: "Handbook on Natural Language Processing for Requirements Engineering"
+  month: 03
+  title: "NLP4RE Tools: Classification, Overview and Management"
+  year: 2025

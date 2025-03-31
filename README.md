@@ -18,20 +18,24 @@ This repository is procured by the following researchers (the * marks the corres
 
 | Name | Affiliation | Contact |
 |---|---|---|
-| Julian Frattini* | Blekinge Institute of Technology | julian.frattini@bth.se |
+| [Julian Frattini](https://github.com/JulianFrattini)* | Blekinge Institute of Technology | https://julianfrattini.github.io/ |
 | Michael Unterkalmsteiner | Blekinge Institute of Technology | |
 | Davide Fucci | Blekinge Institute of Technology | |
 | Daniel Mendez | Blekinge Institute of Technology and fortiss GmbH | |
 
-Cite this repository as: Frattini, J., Unterkalmsteiner, M., Fucci, D., & Mendez, D. (2024). 13. NLP4RE Tools: Classification, Overview, and Management. In Handbook of Natural Language Processing for Requirements Engineering. Cham: Springer International Publishing.
+## Citing
+
+Cite this repository as: Frattini, J., Unterkalmsteiner, M., Fucci, D., Mendez, D. (2025). NLP4RE Tools: Classification, Overview and Management. In: Ferrari, A., Ginde, G. (eds) Handbook on Natural Language Processing for Requirements Engineering. Springer, Cham. https://doi.org/10.1007/978-3-031-73143-3_13
 
 ```bibtex
-@incollection{frattini2024tools,
-  title={13. NLP4RE Tools: Classification, Overview, and Management},
+@incollection{frattini2025nlp4re,
+  title={NLP4RE Tools: Classification, Overview and Management},
   author={Frattini, Julian and Unterkalmsteiner, Michael and Fucci, Davide and Mendez, Daniel},
-  booktitle={Handbook of Natural Language Processing for Requirements Engineering},
-  year={2024},
-  publisher={Springer}
+  booktitle={Handbook on Natural Language Processing for Requirements Engineering},
+  pages={357--380},
+  year={2025},
+  publisher={Springer},
+  doi={10.1007/978-3-031-73143-3_13}
 }
 ```
 
